@@ -133,14 +133,6 @@ If you want to retrain the model:
 * Emergency alert systems for elderly or disabled individuals
 * Wildlife or animal distress detection (with retraining)
 
----
-
-## 🧑‍💻 Contributors
-
-* **Your Name** – Project Lead / Developer
-* **Collaborators (if any)**
-
----
 
 ## 📄 License
 
